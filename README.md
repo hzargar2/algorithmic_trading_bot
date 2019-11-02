@@ -22,5 +22,5 @@ seaborn
 utils
 scipy
  
-Run LSTM_IB_demo.py (LSTM neural network) and RF_IB_demo.py (Random Forest Classifier) with updated host and port configurations for your Interactive Brokers demo account to test out the algorithms. They use the model, weights, and scaler files that are created through the trainers. Run *TRAINERS.py files to see how the models perform on historical data.
+Run LSTM_IB_demo.py (LSTM neural network) and RF_IB_demo.py (Random Forest Classifier) with updated host and port configurations for your Interactive Brokers demo account to test out the algorithms. They use the model, weights, and scaler files that are created through the trainers. Run *TRAINERS.py files to train the models with yur own custom configurations and/or see how the models perform on historical data.
 
