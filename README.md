@@ -1,7 +1,7 @@
 # Alogirthmic Trading Bot using LSTM Neural Network and Random Forest Classifier
  Trading Algorithms for IB using Machine Learning in Python (includes datasets)
 
-This my first personal project. It involves algorithmic trading bots using machine learning in python. This project is a product of patching code from other projects with my own to create the trading bots. The feature engineering and model creation portions are strictly my own.
+This my first personal project. It involves algorithmic trading bots created using machine learning in python. This project is a product of patching code from other projects with my own to create the trading bots. The feature engineering and machine learning model portions are strictly my own.
  
 Dependencies:
 
